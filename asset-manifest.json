@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Transito/static/css/main.c4549a25.css",
-    "main.js": "/Transito/static/js/main.f78bbd02.js",
-    "static/js/453.8f8abcfc.chunk.js": "/Transito/static/js/453.8f8abcfc.chunk.js",
-    "index.html": "/Transito/index.html",
-    "main.c4549a25.css.map": "/Transito/static/css/main.c4549a25.css.map",
-    "main.f78bbd02.js.map": "/Transito/static/js/main.f78bbd02.js.map",
-    "453.8f8abcfc.chunk.js.map": "/Transito/static/js/453.8f8abcfc.chunk.js.map"
+    "main.css": "/RafaelAlvesPimenta/Gest-o-de-oficina/static/css/main.c4549a25.css",
+    "main.js": "/RafaelAlvesPimenta/Gest-o-de-oficina/static/js/main.745ecede.js",
+    "static/js/453.8f8abcfc.chunk.js": "/RafaelAlvesPimenta/Gest-o-de-oficina/static/js/453.8f8abcfc.chunk.js",
+    "index.html": "/RafaelAlvesPimenta/Gest-o-de-oficina/index.html",
+    "main.c4549a25.css.map": "/RafaelAlvesPimenta/Gest-o-de-oficina/static/css/main.c4549a25.css.map",
+    "main.745ecede.js.map": "/RafaelAlvesPimenta/Gest-o-de-oficina/static/js/main.745ecede.js.map",
+    "453.8f8abcfc.chunk.js.map": "/RafaelAlvesPimenta/Gest-o-de-oficina/static/js/453.8f8abcfc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4549a25.css",
-    "static/js/main.f78bbd02.js"
+    "static/js/main.745ecede.js"
   ]
 }
